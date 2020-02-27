@@ -1,8 +1,9 @@
 var dataCacheName ='WeatherData'
-var cacheName= 'Weather-PWA3.3';
+var cacheName= 'Weather-PWA3.4';
 var filesToCache = [
     '/',
     '/index.html',
+    '/index.html?hs=true',
     '/scripts/app.js', 
     '/scripts/localforage.min.js', 
     '/styles/ud811.css', 
